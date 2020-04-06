@@ -3,6 +3,8 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
+// resource I used!!! http://courses.washington.edu/css161/nash/slides/games/gamePak/
+
 public class TicTacToe {
 
 	private static JButton buttons[] = new JButton[9];
